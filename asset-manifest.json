@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reporeact/static/css/main.e6c13ad2.css",
+    "main.js": "/reporeact/static/js/main.6951e32e.js",
+    "static/js/787.f6a01164.chunk.js": "/reporeact/static/js/787.f6a01164.chunk.js",
+    "index.html": "/reporeact/index.html",
+    "main.e6c13ad2.css.map": "/reporeact/static/css/main.e6c13ad2.css.map",
+    "main.6951e32e.js.map": "/reporeact/static/js/main.6951e32e.js.map",
+    "787.f6a01164.chunk.js.map": "/reporeact/static/js/787.f6a01164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6951e32e.js"
+  ]
+}
